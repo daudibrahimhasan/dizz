@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/Dizz-no-bg.png" alt="DIZZ Logo" width="240" />
+  <img src="./public/Dizz.png" alt="DIZZ Logo" width="240" />
   <h3>DIZZ — Your AI Dating Wingman</h3>
   <p>Upload a chat screenshot. Get sharp, personalized reply suggestions powered by Gemini 2.0 Flash Vision.</p>
 
