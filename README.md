@@ -50,7 +50,7 @@ npm install
 ### 3. Add your Gemini API key
 Create a `.env` file in the project root:
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
+API_KEY=your_api_key_here
 ```
 
 ### 4. Run on your phone
@@ -118,6 +118,4 @@ DIZZ generates suggestions based on what's in the screenshot, not guarantees. Re
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/daudibrahimhasan">daudibrahimhasan</a></sub>
-</div>
+<div align="center"> <sub>Built by <a href="https://github.com/daudibrahimhasan">@daudibrahimhasan</a>, founder of <a href="https://github.com/Nexasity">Nexasity AI</a></sub> </div>
