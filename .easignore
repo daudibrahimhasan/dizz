@@ -1,0 +1,15 @@
+# Unnecessary non-mobile files excluded from APK build
+index.html
+full.txt
+tailwind.config.js
+
+# Secrets - never commit
+.env
+.env.local
+
+# Build and dependencies
+node_modules/
+.expo/
+dist/
+web-build/
+*.log

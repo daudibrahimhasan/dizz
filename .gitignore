@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# Secrets - never commit
+.env
+.env.local
+
+# Temp files
+full.txt
+index.html
+tailwind.config.js
